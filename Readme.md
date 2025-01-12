@@ -16,8 +16,8 @@ FTE sessions are non-assessed, in-person (face to face), and not mandatory sessi
 ### TB2
 Sessions of TB2 are all located in Friday afternoon 14:00-16:00, at the MVB1.11/1.11A.
 
-- Week 15 JAN.31: Introduction to Individual Projects and Group Projects/ Industry Partner Talk
-- Week 17 FEB.10: Industry Partner Talk
+- Week 15 JAN.31: Introduction to Individual Projects/ Industry Partner Talk
+- Week 17 FEB.14: Industry Partner Talk
 - Reading Week
 - Week 19 FEB.28: Project Management
 - Week 21 MAR.14: Thesis Writing and Oral/Video Presentations
